@@ -2,15 +2,15 @@
 features:
     -
         icon: check
-        title: faggot_de
-        text: 'Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.'
+        title: Natur
+        text: 'Umgeben von Waeldern laedt unser Standort zum Ausatmen ein.'
     -
         icon: check
-        title: 'Also Something'
-        text: 'Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.'
+        title: Kultur
+        text: 'In der anliegenden Barockstadt Schaerding koennen Sie in die Oesterreichische Kultur und dessen Braeuche eintauchen.'
     -
         icon: check
-        title: 'Probably Something'
-        text: 'Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.'
+        title: Zentral
+        text: 'Von unserem Standort aus erreichen Sie schnell und einfach umliegende Staedte und Aktivitaeten.'
 ---
 
