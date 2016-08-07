@@ -1,0 +1,27 @@
+{% macro loop(page) %}
+    {% for p in page.children.visible %}
+        {% set current_page = (p.active or p.activeChild) ? 'active' : '' %}
+        {% if p.children.visible.count > 0 %}
+                    <li class="{{ current_page }}">
+                    <a class="submenu fa-angle-down">{{ p.menu }}</a>
+                <ul>
+                    {{ _self.loop(p) }}
+                </ul>
+            </li>
+        {% else %}
+
+                    <li class="{{ current_page }}"><a href="{{ p.url }}">{{ p.menu }}</a></li>
+        {% endif %}
+    {% endfor %}
+
+{% endmacro %}
+
+<header id="header" >
+    <h1><a href=" {{ base_url }}">Schneebauer<span>Wohnen
+    </span></a></h1>
+    <nav id="nav">
+        <ul>
+            {{ _self.loop(pages) }}
+        </ul>
+    </nav>
+</header>

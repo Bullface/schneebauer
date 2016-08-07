@@ -1,0 +1,10 @@
+            <section id="banner">
+                    {% for item in page.header.items %}
+                        <article>
+                            <img src="{{ page.media[item.image].url }}" alt="" />
+                            <div class="inner">
+                                <h2><a href="#">{{ item.title }}</a></h2>
+                            </div>
+                        </article>
+                    {% endfor %}
+            </section>

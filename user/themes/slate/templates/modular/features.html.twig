@@ -1,0 +1,21 @@
+<section id="two" class="wrapper content-pad">
+                <div class="inner">
+                
+                    <div class="features">
+                    {% for item in page.header.features %}
+                        <section class="content">
+                        {% if item.icon %}
+                            <span class="icon-wrapper major"><span class="icon fa-{{ item.icon }}"></span></span>
+                    {% endif %}
+                            <header>
+                        <h3>{{ item.title }}</h3>
+                    </header>
+                    <p>{{ item.text }}</p>
+                        </section>
+                     {% endfor %}
+                    </div>
+
+        
+                </div>
+</section>
+                   

@@ -1,0 +1,21 @@
+                   <section id="three" class="wrapper style2">
+                <div class="inner">
+                    <h2>{{page.title}}</h2>
+                    <div class="posts">
+
+                    {% for item in page.header.features %}
+                    <section class="post">
+
+                            <span class="image"><img src="{{ page.media[item.image].url }}" alt="" /></span>
+                            <div class="content">
+                        <h3>{{ item.title }}</h3>
+                        <p>{{ item.text }}</p>
+                        <ul class="actions">
+                                    <li><a href="#" class="button">More</a></li>
+                                </ul>
+                                </div>
+                    </section>
+                    {% endfor %}
+                    </div>
+                </div>
+            </section>
