@@ -1,0 +1,42 @@
+1471206199
+a:2:{s:7:"content";s:2357:"                   <section id="three" class="wrapper style2">
+                <div class="inner">
+                    <h2>testinga</h2>
+                    <div class="posts">
+
+                                        <section class="post">
+
+                            <span class="image"><img src="/grav/user/pages/01.home/_posts/pic01.jpg" alt="" /></span>
+                            <div class="content">
+                        <h3>Reiten</h3>
+                        <p>Pferde sind ständig in Bewegung (Kreislaufprinzip), Ruhige, saubere und trockene Anlage, Große Weideflächen im Sommer</p>
+                        <ul class="actions">
+                                    <li><a href="#" class="button">More</a></li>
+                                </ul>
+                                </div>
+                    </section>
+                                        <section class="post">
+
+                            <span class="image"><img src="/grav/user/pages/01.home/_posts/pic01.jpg" alt="" /></span>
+                            <div class="content">
+                        <h3>Wandern</h3>
+                        <p>Der anliegende Lidetwald bietet einige verschiedene Wege zum Joggen und Spazieren an. Bequemerweise befindet sich der Wald direkt vor Ihrer Apartmenttuer.</p>
+                        <ul class="actions">
+                                    <li><a href="#" class="button">More</a></li>
+                                </ul>
+                                </div>
+                    </section>
+                                        <section class="post">
+
+                            <span class="image"><img src="/grav/user/pages/01.home/_posts/pic01.jpg" alt="" /></span>
+                            <div class="content">
+                        <h3>Wohnen</h3>
+                        <p>Unsere Wohnungen sind ausgestattet mit einer gemuetlicher Einrichtung und einem Atemberaubenden ausblick. Ist es etwas kaelter werden diese mit Bioenergie temperiert(Hackschnitzel und Photovoltaik).</p>
+                        <ul class="actions">
+                                    <li><a href="#" class="button">More</a></li>
+                                </ul>
+                                </div>
+                    </section>
+                                        </div>
+                </div>
+            </section>";s:12:"content_meta";N;}

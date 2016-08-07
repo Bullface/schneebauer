@@ -2,27 +2,15 @@
 title: testinga
 features:
     -
-        title: test
+        title: Reiten
+        image: pic01.jpg
+        text: 'Pferde sind ständig in Bewegung (Kreislaufprinzip), Ruhige, saubere und trockene Anlage, Große Weideflächen im Sommer'
+    -
+        title: Wandern
         image: pic01.jpg
         text: 'Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.'
     -
-        title: 'Also Something'
-        image: pic01.jpg
-        text: 'Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.'
-    -
-        title: 'Probably Something'
-        image: pic01.jpg
-        text: 'Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.'
-    -
-        title: Faggot_en
-        image: pic01.jpg
-        text: 'Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.'
-    -
-        title: 'Also Something'
-        image: pic01.jpg
-        text: 'Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.'
-    -
-        title: 'Probably Something'
+        title: Wohnen
         image: pic01.jpg
         text: 'Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.'
 ---

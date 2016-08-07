@@ -1,0 +1,42 @@
+1471204869
+a:2:{s:7:"content";s:2347:"                   <section id="three" class="wrapper style2">
+                <div class="inner">
+                    <h2>testinga</h2>
+                    <div class="posts">
+
+                                        <section class="post">
+
+                            <span class="image"><img src="/grav/user/pages/01.home/_posts/pic01.jpg" alt="" /></span>
+                            <div class="content">
+                        <h3>Reiten</h3>
+                        <p>Pferde sind ständig in Bewegung (Kreislaufprinzip), Ruhige, saubere und trockene Anlage, Große Weideflächen im Sommer</p>
+                        <ul class="actions">
+                                    <li><a href="#" class="button">More</a></li>
+                                </ul>
+                                </div>
+                    </section>
+                                        <section class="post">
+
+                            <span class="image"><img src="/grav/user/pages/01.home/_posts/pic01.jpg" alt="" /></span>
+                            <div class="content">
+                        <h3>Wandern</h3>
+                        <p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+                        <ul class="actions">
+                                    <li><a href="#" class="button">More</a></li>
+                                </ul>
+                                </div>
+                    </section>
+                                        <section class="post">
+
+                            <span class="image"><img src="/grav/user/pages/01.home/_posts/pic01.jpg" alt="" /></span>
+                            <div class="content">
+                        <h3>Wohnen</h3>
+                        <p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+                        <ul class="actions">
+                                    <li><a href="#" class="button">More</a></li>
+                                </ul>
+                                </div>
+                    </section>
+                                        </div>
+                </div>
+            </section>";s:12:"content_meta";N;}
