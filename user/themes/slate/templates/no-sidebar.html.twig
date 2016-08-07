@@ -1,0 +1,20 @@
+{% extends 'partials/base.html.twig' %}
+{% block content %}
+<section id="main" class="wrapper">
+				<div class="inner">
+
+					<header class="major">
+						<h2>{{ page.header.title }}</h2>
+						<p>{{ page.header.subtext }}</p>
+					</header>
+
+					<!-- Content -->
+						<div class="content">
+
+							<a href="#" class="image fit"><img src="{{ page.media[page.header.image].url }} alt="" /></a>
+							{{ page.content }}
+						</div>
+
+				</div>
+			</section>
+			{% endblock %}
